@@ -9,5 +9,4 @@ public class Usuario {
         return senha;
     }
 }
-Footer
-© 2023 GitHub, Inc.
+
